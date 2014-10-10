@@ -64,7 +64,7 @@ class ViewController: UIViewController {
   }
 
   @IBAction func calculateButtonActualTapped(sender: UIButton) {
-    // Constants
+    // Constants for dog calculations
     let DogFactorBaby = 10.5
     let DogFactorAdult = 4.0
     let DogTurnsAdult = 2.0
